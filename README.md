@@ -22,4 +22,4 @@ UI pages to navigage between
 4.	Client Progress portal
 
 # Navigation
-[source](Navigation.jpg)
+[Navigation Course](Navigation.jpg)
